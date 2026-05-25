@@ -1,0 +1,304 @@
+================================================================
+  IMAGE GUIDE — BEHIND THE LENS
+  Sam Steels | Automotive Photography | Brisbane
+  NOT LINKED TO THE WEBSITE — FOR REFERENCE ONLY
+================================================================
+
+This file lists every image used across the Behind the Lens
+website. Replace the current Unsplash placeholder images with
+Sam's own photography using the filenames and specs below.
+
+----------------------------------------------------------------
+  GENERAL TIPS FOR AUTOMOTIVE PHOTOGRAPHY IMAGES
+----------------------------------------------------------------
+
+  TIMING
+  - Shoot during golden hour (30–60 min after sunrise or before
+    sunset) for warm, cinematic light with long shadows.
+  - Overcast days produce soft, even light ideal for detail shots.
+  - Avoid midday harsh sun — it creates blown-out highlights on
+    metallic paint and glass.
+
+  PREPARATION
+  - Always photograph a freshly washed and detailed car.
+  - Remove personal items from the interior before shooting.
+  - Use a clay bar and quick detail spray for a showroom finish.
+  - Dress the tyres with tyre shine for a polished look.
+  - Straighten the steering wheel for exterior 3/4 shots.
+
+  COMPOSITION
+  - Use the rule of thirds — don't always centre the car.
+  - Shoot low and wide for an aggressive, cinematic feel.
+  - Include environmental context (urban architecture, mountain
+    roads, industrial backdrops) to tell a story.
+  - Use leading lines (roads, kerbs, railway tracks) to draw the
+    eye toward the car.
+
+  EDITING
+  - Export final images as JPG at 85–90% quality for web use.
+  - Use PNG only for images requiring transparency.
+  - Compress all web images using squoosh.app (free) or
+    tinyjpg.com before uploading.
+  - Target file sizes: hero images under 400KB, gallery images
+    under 200KB each.
+  - Maintain consistent colour grading across all pages for a
+    cohesive brand look.
+
+----------------------------------------------------------------
+  LOGO
+----------------------------------------------------------------
+
+  FILENAME:    logo.jpg (or logo.png for transparency)
+  PAGE:        All pages — navigation bar and footer
+  CONTENT:     Behind the Lens logo / wordmark
+  DIMENSIONS:  400 x 120 px minimum (SVG preferred for crispness)
+  FORMAT:      PNG (with transparent background) or SVG
+  NOTES:       Currently using text logo ("BEHIND.THE LENS").
+               Replace with branded logo when available.
+               Keep logo on dark background; white version needed.
+
+----------------------------------------------------------------
+  PAGE: index.html — HOME PAGE
+----------------------------------------------------------------
+
+  1. HOME HERO BACKGROUND
+     Filename:    home-banner.jpg
+     Purpose:     Full-viewport hero background image
+     Content:     Sam's most striking car image — cinematic, moody,
+                  dark. Works best: a dark-coloured sports car at
+                  dusk, lit with ambient/street light, or at a scenic
+                  Brisbane location. Car should feel dramatic.
+     Dimensions:  1920 x 1080 px (minimum), or 2560 x 1440 px ideal
+     Format:      JPG
+     Compression: Compress to under 400KB using squoosh.app
+     Tips:        Ken Burns zoom animation applied in CSS — ensure
+                  the focal point (the car) is centred or slightly
+                  left so the text overlay doesn't cover it.
+
+  2. ABOUT TEASER SECTION IMAGE
+     Filename:    home-about.jpg
+     Purpose:     Portrait image alongside the "About Sam" text block
+     Content:     Sam photographing a car, or a candid portrait of Sam
+                  with his camera at a shoot location. Should feel
+                  natural and professional — not posed/forced.
+     Dimensions:  900 x 570 px
+     Format:      JPG
+     Compression: Under 200KB
+
+  3–6. SELECTED WORK PREVIEW IMAGES
+     Filenames:   home-work1.jpg, home-work2.jpg,
+                  home-work3.jpg, home-work4.jpg
+     Purpose:     Grid preview of recent work on the home page
+     Content:     Sam's best 4 shots — mix of angles and cars.
+                  home-work1 is displayed largest (spans 2 columns).
+                  Variety: wide exterior, golden-hour shot, interior,
+                  and a detail crop.
+     Dimensions:  home-work1: 1200 x 600 px
+                  home-work2/3/4: 700 x 550 px each
+     Format:      JPG
+     Compression: Under 180KB each
+
+----------------------------------------------------------------
+  PAGE: about.html — ABOUT
+----------------------------------------------------------------
+
+  7. ABOUT PAGE HERO BACKGROUND
+     Filename:    about-banner.jpg
+     Purpose:     Full-width page hero background
+     Content:     A wide, atmospheric car image — different from the
+                  home hero. Could be a rear 3/4 shot, a rolling shot,
+                  or a location-heavy composition.
+     Dimensions:  1920 x 900 px
+     Format:      JPG
+     Compression: Under 350KB
+
+  8. SAM'S PORTRAIT
+     Filename:    about-sam.jpg
+     Purpose:     Primary portrait of Sam on the About page
+     Content:     Professional but approachable portrait of Sam — with
+                  or without camera. Ideally at a shoot location or
+                  near a car. Natural light. Should make clients feel
+                  comfortable reaching out.
+     Dimensions:  900 x 620 px
+     Format:      JPG
+     Compression: Under 200KB
+
+  9. ON-LOCATION BANNER
+     Filename:    about-location.jpg
+     Purpose:     Wide cinematic banner mid-page showing Sam at work
+     Content:     Sam photographing a car on location — ideally a
+                  wide shot showing the environment (Brisbane roads,
+                  a carpark, a scenic mountain road, etc.) as context.
+     Dimensions:  1600 x 480 px
+     Format:      JPG
+     Compression: Under 300KB
+
+----------------------------------------------------------------
+  PAGE: gallery.html — GALLERY / PORTFOLIO
+----------------------------------------------------------------
+
+  GALLERY PAGE HERO BACKGROUND
+     Filename:    gallery-banner.jpg
+     Purpose:     Full-width page hero background
+     Content:     A vibrant, high-energy car image — best showcase
+                  of Sam's work. Could be a dramatic front-3/4 at
+                  sunset or a low-angle hero shot.
+     Dimensions:  1920 x 900 px
+     Format:      JPG
+     Compression: Under 350KB
+
+  --- EXTERIOR CATEGORY ---
+
+  10. gallery-exterior1.jpg
+      Content:   Front 3/4 exterior shot — hero angle
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  11. gallery-exterior2.jpg
+      Content:   Side profile shot — car on a clean road or carpark
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  12. gallery-exterior3.jpg
+      Content:   Rear 3/4 angle, preferably at golden hour
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  13. gallery-exterior4.jpg
+      Content:   Wide environmental shot — car in Brisbane landscape
+      Dimensions: 800 x 600 px  |  Format: JPG  (tall variant, 600x800)
+
+  --- INTERIOR CATEGORY ---
+
+  14. gallery-interior1.jpg
+      Content:   Driver's seat, steering wheel and dashboard
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  15. gallery-interior2.jpg
+      Content:   Gear shifter, centre console or instrument cluster
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  16. gallery-interior3.jpg
+      Content:   Full interior view from passenger side or boot
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  --- DETAIL CATEGORY ---
+
+  17. gallery-detail1.jpg
+      Content:   Wheel/rim close-up with brake calliper visible
+      Dimensions: 800 x 600 px  |  Format: JPG  (tall variant, 600x800)
+
+  18. gallery-detail2.jpg
+      Content:   Badge, emblem or headlight detail
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  19. gallery-detail3.jpg
+      Content:   Paint reflection or bodywork curve detail
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  --- EVENT CATEGORY ---
+
+  20. gallery-event1.jpg
+      Content:   Car show or meet — wide shot showing multiple cars
+                 and atmosphere
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  21. gallery-event2.jpg
+      Content:   Action or rolling shot at a track day or car event
+      Dimensions: 800 x 600 px  |  Format: JPG
+
+  GENERAL GALLERY TIPS:
+  - Aim for consistent colour grading across all gallery images —
+    this reinforces Sam's visual brand and style.
+  - Mix portrait (tall) and landscape orientations to add visual
+    rhythm to the grid layout. The CSS supports 4:3 and 3:4 ratios.
+  - Include at least 2 images per category so filters are useful.
+
+----------------------------------------------------------------
+  PAGE: pricing.html — PRICING
+----------------------------------------------------------------
+
+  22. PRICING PAGE HERO BACKGROUND
+      Filename:    pricing-banner.jpg
+      Purpose:     Full-width page hero background
+      Content:     Dark, moody car — ideally a different vehicle from
+                   other hero images. Low angle, high drama.
+      Dimensions:  1920 x 900 px
+      Format:      JPG
+      Compression: Under 350KB
+
+----------------------------------------------------------------
+  PAGE: contact.html — CONTACT
+----------------------------------------------------------------
+
+  23. CONTACT PAGE HERO BACKGROUND
+      Filename:    contact-banner.jpg
+      Purpose:     Full-width page hero background
+      Content:     An inviting, well-composed shot — wide angle of a
+                   car at a Brisbane location. Should feel approachable
+                   and aspirational. "This could be your car."
+      Dimensions:  1920 x 900 px
+      Format:      JPG
+      Compression: Under 350KB
+
+----------------------------------------------------------------
+  SOCIAL MEDIA ICONS (in footer/contact areas)
+----------------------------------------------------------------
+
+  24. instagram-logo.png
+      Content:   Instagram logo mark (white or brand version)
+      Dimensions: 48 x 48 px  |  Format: PNG (transparent background)
+      Notes:     Currently using inline SVG — only needed if switching
+                 to image-based icons.
+
+  25. facebook-logo.png
+      Content:   Facebook logo mark
+      Dimensions: 48 x 48 px  |  Format: PNG (transparent background)
+      Notes:     Facebook not currently linked — add if Sam creates a
+                 Facebook business page.
+
+----------------------------------------------------------------
+  COMPRESSION TOOLS
+----------------------------------------------------------------
+
+  squoosh.app        — Free web tool, browser-based, excellent
+                       for JPG compression with quality preview
+  tinyjpg.com        — Batch compress JPG and PNG files online
+  tinypng.com        — Specifically for PNG compression
+  imageoptim.com     — Mac desktop app for batch optimization
+  Lightroom Export   — Use "Quality: 80, sRGB, Resize to Fit"
+                       for consistent web-ready exports from raw files
+
+----------------------------------------------------------------
+  QUICK REFERENCE — FILENAMES SUMMARY
+----------------------------------------------------------------
+
+  logo.jpg / logo.png
+  home-banner.jpg
+  home-about.jpg
+  home-work1.jpg
+  home-work2.jpg
+  home-work3.jpg
+  home-work4.jpg
+  about-banner.jpg
+  about-sam.jpg
+  about-location.jpg
+  gallery-banner.jpg
+  gallery-exterior1.jpg
+  gallery-exterior2.jpg
+  gallery-exterior3.jpg
+  gallery-exterior4.jpg
+  gallery-interior1.jpg
+  gallery-interior2.jpg
+  gallery-interior3.jpg
+  gallery-detail1.jpg
+  gallery-detail2.jpg
+  gallery-detail3.jpg
+  gallery-event1.jpg
+  gallery-event2.jpg
+  pricing-banner.jpg
+  contact-banner.jpg
+  instagram-logo.png
+  facebook-logo.png
+
+================================================================
+  END OF IMAGE GUIDE
+  Behind the Lens © 2025 — Sam Steels, Brisbane QLD
+================================================================
